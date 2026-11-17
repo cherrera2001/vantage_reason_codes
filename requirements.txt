@@ -1,0 +1,6 @@
+# The seeq SDK major.minor must match your Seeq server version (see Help > About in Seeq).
+# e.g. for a server on R66.x keep "seeq~=66.0"; for R65 use "seeq~=65.1".
+seeq~=66.0
+seeq-spy
+pandas
+python-dotenv
